@@ -1,0 +1,9 @@
+[package]
+name = "csv_split"
+version = "0.1.0"
+authors = ["Julian Bieber <j.bieber@patagona.de>"]
+edition = "2018"
+
+[dependencies]
+csv = "1.1.1"
+structopt = "0.2.18"
