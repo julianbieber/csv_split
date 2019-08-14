@@ -9,4 +9,6 @@ cargo install --git https://github.com/julianbieber/csv_split.git
 ```
 
 # Run
+```
 cat CSV_FILE.csv | csv_split -c $COLUMN_NAME
+```
