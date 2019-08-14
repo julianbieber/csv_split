@@ -5,7 +5,7 @@
 The installation requires cargo (installation via [rustup](https://rustup.rs/))
 
 ```
-cargo install --git https://github.com/julianbieber/csv_split.git
+cargo install --release --git https://github.com/julianbieber/csv_split.git
 ```
 
 # Run
